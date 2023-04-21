@@ -10,7 +10,9 @@ Can you escape the alligator?
 # Developer Team
 - Blair
 	- Project Manager, Website Developer & Designer, Playtester, Level Design
+
 - Matty
 	- Asset Creator, Asset Finder, Artist, Playtester, Level Design
+
 - Pluto
 	- Game Mechanics, Sound Design, Playtester, Web Tester, Level Design
