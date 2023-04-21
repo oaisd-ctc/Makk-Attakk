@@ -1,23 +1,18 @@
-# Unity-Template
-_A template repo for Unity projects._
+# Makk Attakk: Attack of the Makk
 
-**Includes:** 
+Makk Attakk: Attack of the Makk is a 2D platformer game where you play as Makk. <br>
 
-1. Default `.gitignore` for Unity Projects
-2. `.gitattributes` file for _git lfs_ from [alexkaratarakis](https://github.com/alexkaratarakis/gitattributes/blob/master/Unity.gitattributes) 
-3. [MIT License](https://opensource.org/license/mit/)
+Makk is a hardened duck-criminal, he has been in and out of prison multiple times. <br>
 
+But Makk has a secret; he is deeply afraid of alligators, and one is chasing him into the sewers of Florida!
+Can you escape the alligator?<br>
 
+***
 
-## Getting Started...
-
-1. Use this template to create a new repository
-2. Clone your new repo to your local machine
-3. Open your cloned repo in the **Command Line** or **Git Bash**
-4. Run the command `git lfs install`. After running the command, you should see a message that says _Git LFS initialized_
-
-At this point you can either move your entire Unity project to the cloned repo, or create a new Unity Project in your cloned repo.
-
-
-# IMPORTANT NOTE
-**Your Unity project _must be on the same folder level as the `.gitignore` and `.gitattributes` files_. Failing to do so will cause unintended tracking and will more than likely attempt to commit _all_ of your changes since the `.gitignore` file will not be obeyed.**
+# Developer Team
+- Blair :cat:
+	- Project Manager, Website Developer & Designer, Playtester, Level Design
+- Matty :duck:
+	- Asset Creator, Asset Finder, Artist, Playtester, Level Design
+- Pluto :fox_face:
+	- Game Mechanics, Sound Design, Playtester, Web Tester, Level Design
