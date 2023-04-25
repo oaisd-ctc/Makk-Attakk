@@ -1,0 +1,48 @@
+/* "Makk Attakk: Attakk of the Makk */
+#head {
+  color: #fcce45;
+  text-align: center;
+  position: relative;
+}
+
+/* Entire <body> */
+body {
+  background-color: #fff2cc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+  /* margin: .3em; */
+  word-spacing: em;
+}
+
+/* Nav bar */
+#content {
+  background-color: #fff2cc;
+  text-align: center;
+  text-decoration: none;
+  font-size: larger;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#crocpic {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+div.container {
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  width: 100%;
+}

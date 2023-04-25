@@ -19,8 +19,8 @@
         <div id="content">
             <p>
                 <a href="index.html">Home</a>
-                <a href="#placeholder" target="_top" style="padding: 1em";> Makk </a>
-                <a href="makk.html" style="padding: 1em";> Darth Gader</a>
+                <a href="makk.html" target="_top" style="padding: 1em";> Makk </a>
+                <a href="darthgader.html" style="padding: 1em";> Darth Gader</a>
                 <a href="developers.html"> Developers </a>
             </p>
         </div>
