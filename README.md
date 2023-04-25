@@ -12,7 +12,7 @@ Makk has faced prison his entire life for crimes *including but not limited to*:
 -Conspiracy :eye: <br> 
 -Conspiracy of mass destruction of the alligator species :bomb: :crocodile: <br>
 -Domestic violence :house: 🤛<br>
--Identity fraud 🪪 :no_entry_sign:<br>
+-Identity fraud :no_entry_sign:<br>
 -Insurance fraud :memo::no_entry_sign:<br>
 -Motor vehicle theft :car: :running: <br>
 -Theft :running: :department_store:<br>
