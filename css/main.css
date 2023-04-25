@@ -31,7 +31,20 @@ a:link {
   }
 
 /* Spacing / Positioning */
+.center {
+text-align: center;
+}
 
+ul.crimelist
+{
+  display: inline-block;
+  text-align: left;
+}
+
+div.container
+{
+  text-align:center;
+}
 
 /* "About the game"  */
 #abtthegame {

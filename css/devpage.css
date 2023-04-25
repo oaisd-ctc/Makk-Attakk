@@ -20,8 +20,9 @@ a:link {
 /* Spacing */
 #gaderlink
 {
-  padding-right: 1em
+  position:relative;
 }
+
 
 /* Nav Bar */
 #content {

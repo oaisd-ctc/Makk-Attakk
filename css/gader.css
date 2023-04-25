@@ -14,7 +14,7 @@ body {
 a:link {
   text-decoration: none;
   /* margin: .3em; */
-  word-spacing: em;
+  /* word-spacing: em; */
 }
 
 /* Nav bar */
@@ -36,6 +36,7 @@ a:link {
   margin-right: auto;
   margin-left: auto;
   display: block;
+  width: 20%;
 }
 
 div.container {
