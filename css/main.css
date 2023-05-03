@@ -58,3 +58,11 @@ div.container
 
   width: 100%;
 }
+
+
+/* im putting the navbar stuff down here so its easy to get rid of -pluto */
+section::after {
+    content: "";
+    display: table;
+    clear: both;
+}
