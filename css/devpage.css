@@ -54,6 +54,19 @@ a:link {
   font-size: 1.3em;
 }
 
+/* pluto's about me styles */
+#aboutplutotext {
+    position: relative;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+#aboutplutotext {
+    position: relative;
+    text-align:center;
+    font-size: 1.3em;
+}
+
 /* "Makk Attakk: Attakk of the Makk"  */
 #gametitleheader {
   position: relative;
