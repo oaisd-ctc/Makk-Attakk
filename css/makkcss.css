@@ -23,9 +23,7 @@ a:link {
   color: red; 
 }
 
-
-
-#footer {
+footer {
   display: block;
   position:relative;
   text-align: center;
