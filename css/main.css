@@ -86,4 +86,5 @@ li a:hover {
 
 .active {
   background-color: #7DCFB6;
+  font-style: bold;
 }
