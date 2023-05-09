@@ -14,12 +14,12 @@ TagManager:
   - Ground
   - Climbing
   - Player
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Bouncing
+  - Enemies
+  - Hazards
+  - Arrows
+  - Interactables
   - 
   - 
   - 
@@ -44,8 +44,29 @@ TagManager:
   - name: Background
     uniqueID: 3700613541
     locked: 0
+  - name: Water
+    uniqueID: 1417020291
+    locked: 0
   - name: Ground
     uniqueID: 3459569327
+    locked: 0
+  - name: Climbing
+    uniqueID: 2446028573
+    locked: 0
+  - name: Hazards
+    uniqueID: 2553034401
+    locked: 0
+  - name: Interactables
+    uniqueID: 2193898347
+    locked: 0
+  - name: Enemies
+    uniqueID: 946557869
+    locked: 0
+  - name: Text
+    uniqueID: 1894393767
+    locked: 0
+  - name: Arrows
+    uniqueID: 2304964655
     locked: 0
   - name: Player
     uniqueID: 3512807191
