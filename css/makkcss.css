@@ -7,20 +7,13 @@
 
 /* Entire <body> */
 body {
-  background-color: #fff2cc;
+  background-color: #565554;
   font-family: Arial, Helvetica, sans-serif;
+  color: white;
 }
 
 a:link {
   text-decoration: none;
-}
-
-/* Nav bar */
-#content {
-  background-color: #fff2cc;
-  text-align: center;
-  text-decoration: none;
-  font-size: larger;
 }
 
 .makkpic {
@@ -30,11 +23,46 @@ a:link {
   color: red; 
 }
 
-
-
-#footer {
+footer {
   display: block;
   position:relative;
   text-align: center;
   width: 100%;
+}
+
+/* im putting the navbar stuff down here so its easy to get rid of -pluto */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #8D86C9;
+}
+
+li {
+  float: left;
+  border-right: 1px solid black;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #F7B1AB;
+  font-style: italic;
+}
+
+.active {
+  background-color: #7DCFB6;
+  font-style: bold;
 }
